@@ -502,6 +502,10 @@ footer {
   .project-links a {
     margin: 1rem auto;
   }
+
+  .scroll-button {
+    bottom: 15vh;
+  }
 }
 
 @media (prefers-reduced-motion) {
