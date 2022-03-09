@@ -78,7 +78,7 @@ header .header-text {
 
 .scroll-button {
   position: absolute;
-  bottom: 10vh;
+  bottom: 2vh;
   padding: 2rem 0;
   border: none;
   outline: none;

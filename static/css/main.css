@@ -11,7 +11,7 @@ body {
   background-position: left top;
   color: var(--text-color);
   overflow-x: hidden;
-  font-family: "Inter", sans-serif;
+  font-family: "Avenir", sans-serif;
 }
 
 body.no-scroll {

@@ -3,11 +3,11 @@
 :root,
 :root.light {
   --background-color: #fff;
-  --text-color: #000;
+  --text-color: #333;
   --shade-100: #efefef;
   --shade-300: #8a8a8a;
   --shade-500: #3d3d3d;
-  --secondary-color: #fffcf0;
+  --secondary-color: #faf6e2;
   --btn-color: rgba(255, 230, 102, 0.43);
   --grey-color: #c2bfbc;
   --grey-text: #595959;
@@ -16,7 +16,7 @@
 @media (prefers-color-scheme:light) {
   :root {
     --background-color: #fff;
-    --text-color: #000;
+    --text-color: #333;
     --shade-100: #efefef;
     --shade-300: #8a8a8a;
     --shade-500: #3d3d3d;
